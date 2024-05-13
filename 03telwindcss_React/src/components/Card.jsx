@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Card({username}) {
-    console.log(username)++
+    console.log(username)
     return (
         <div className="max-w-sm rounded overflow-hidden shadow-lg bg-blue-200 mb-7">
   <img className="w-full" src="https://images.pexels.com/photos/11112151/pexels-photo-11112151.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Sunset in the mountains"/>
