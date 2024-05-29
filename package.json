@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "typings": "^2.1.1"
+    "lru-cache": "^10.2.2",
+    "rimraf": "^5.0.7",
+    "typings": "^0.6.10"
   }
 }
